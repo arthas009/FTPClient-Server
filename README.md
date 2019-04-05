@@ -8,6 +8,6 @@ Before getting started, you need to setup Jupyter Notebook, python 3.x and follo
 - shutil
 - os
 
-If you don't have Jupyter Notebook, copy and paste the codes into ney .py files and execute in another python IDE.
+If you don't have Jupyter Notebook, copy and paste the codes into new .py files and execute in another python IDE.
 
 ![Alt text](https://github.com/arthas009/FTPClient-Server/blob/master/New%20Bitmap%20Image.bmp)
